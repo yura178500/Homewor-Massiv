@@ -6,7 +6,7 @@ public class Main {
         System.out.println(jeniwerBeht);
         System.out.println(weigts[0]);
         System.out.println(weigts[13]);
-        int jeniuer = 0;
+        int jeniwerBeht = 0;
         System.out.println(weigts[jeniwerBeht]);
         for (int i = 0; i < weigts.length; i++ ){
         System.out.println(weigts[i]);
